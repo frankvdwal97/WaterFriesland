@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c0c0c0",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Tjeukemeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8000946044921875,
+          52.89337032817865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Slotermeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.628089904785156,
+          52.91594126008629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Heegermeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5886077880859375,
+          52.9536023000285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "De Fluessen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5240631103515625,
+          52.93394815364359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Sneekermeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.751686096191406,
+          53.031097298099745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Pikmeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.850563049316406,
+          53.09505487551377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Wijde Ee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.872793197631835,
+          53.08691072085707
+        ]
+      }
+    }
+  ]
+}
